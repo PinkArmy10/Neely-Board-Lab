@@ -16,7 +16,9 @@
 }
 
 .site-title {
-  color: black;
+    color: black;
+    position: relative;
+    top: -80px;
 }
 
 
